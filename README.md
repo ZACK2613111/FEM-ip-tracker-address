@@ -43,7 +43,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://fem-ip-tracker-address.vercel.app/)
+- Live Site URL: [https://fem-ip-tracker-address.vercel.app/]
 
 ### Built with
 
